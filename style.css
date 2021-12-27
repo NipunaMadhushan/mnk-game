@@ -1,0 +1,26 @@
+.center {
+    background-color: #FFFFFF;
+    position: relative;
+    vertical-align: center;
+    text-align: center;
+}
+
+.heading {
+    margin: auto;
+    width: 99%;
+    padding: 10px;
+    text-align: center;
+    background-color: #22b7b1;
+    color: #f0f0f0;
+}
+
+
+.start_button {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    vertical-align: center;
+    position: relative;
+    background-color: #636CED;
+    color: #f0f0f0;
+}
